@@ -1,8 +1,8 @@
 {
-    "name": "lightsaml/sp-bundle",
+    "name": "jannmyljlightsaml/sp-bundle",
     "license": "MIT",
     "type": "symfony-bundle",
-    "description": "Light SAML2 SP Symfony Bundle",
+    "description": "Light SAML2 SP Symfony 5 Bundle By jannmylj",
     "homepage": "http://www.lightsaml.com/SP-Bundle/",
     "authors": [
         {
